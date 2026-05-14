@@ -7,3 +7,6 @@ statsforecast
 utilsforecast
 fpppy
 ipykernel
+tsfeatures
+
+

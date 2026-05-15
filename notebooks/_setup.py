@@ -80,3 +80,4 @@ mpl.colormaps.register(
 from statsforecast import StatsForecast
 from statsforecast.models import AutoETS
 mpl.rcParams['axes.prop_cycle'] = cycler(color=["#000000", "#2f2fff"])
+from pathlib import Path

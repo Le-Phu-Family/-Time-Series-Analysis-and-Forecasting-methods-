@@ -1,12 +1,12 @@
-numpy
-pandas
-matplotlib
-seaborn
-cycler
-statsforecast
-utilsforecast
-fpppy
-ipykernel
-tsfeatures
-
+numpy == 2.4.6
+pandas == 2.3.3
+matplotlib == 3.10.9
+seaborn == 0.13.2
+cycler == 0.12.1
+statsforecast @ git+https://github.com/Nixtla/statsforecast.git@20351bb97c4f2f012b4f27a03e860a3d1050aa22
+scipy == 1.17.1
+utilsforecast == 0.2.16 
+fpppy == 0.0.3
+ipykernel == 7.2.0
+tsfeatures == 0.4.5
 
